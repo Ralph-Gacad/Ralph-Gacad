@@ -1,5 +1,5 @@
-### Hi, I'm Ralph Gacad !
-<h3> As of right now I'm learning</h3>
+### Hi, I'm Ralph Gacad!
+<h3> :grinning: As of right now I'm learning</h3>
 
 - Front End Developing
 - Python
