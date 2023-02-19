@@ -1,5 +1,5 @@
 ### Hi, I'm Ralph Gacad!
-<h3> :grinning:I'm attempting to master:</h3>
+<h3> :grinning:I'm working on to master:</h3>
 
 - Front End Developing
 - Python/Django
