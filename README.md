@@ -6,4 +6,4 @@
 - Also working on Python/Django.
 
 ### Visitors
-${your.username}.${your.repo.id}, https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
+https://visitor-badge.ralph-gacad.icu/badge?page_id=ralph-gacad.visitor-badge
