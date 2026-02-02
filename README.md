@@ -6,4 +6,4 @@
 - Also working on Python/Django.
 
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/Ralph-Gacad/count.svg)
+${your.username}.${your.repo.id}, https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
